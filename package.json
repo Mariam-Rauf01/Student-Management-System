@@ -1,0 +1,39 @@
+{
+  "name": "mr95-student-management-system",
+  "version": "1.0.0",
+  "description": "I've just completed a new CLI program named \"Student Management System\" using Object-Oriented Programming (OOP) concepts.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "student management system",
+    "SMS",
+    "school management software",
+    "student information system",
+    "educational software",
+    "class management",
+    "attendance tracking",
+    "grades management",
+    "student records",
+    "school administration",
+    "parent portal",
+    "teacher tools",
+    "student database",
+    "academic management",
+    "learning management",
+    "student analytics"
+  ],
+  "author": "Mariam Rauf",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.14.11"
+  },
+  "dependencies": {
+    "@types/inquirer": "^9.0.7",
+    "chalk": "^5.3.0",
+    "inquirer": "^9.3.2"
+  }
+}
